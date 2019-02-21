@@ -1,6 +1,5 @@
 //simulates darts being thrown at a dart board in order to estimate pi
 
-
 #include <stdio.h>
 #include <pthread.h>
 #include <time.h>
